@@ -31,6 +31,6 @@ describe("Math utilities", () => {
     });
 
     test("divide two numbers", () => {
-        expect(division(10, 2)).toBe(20);
+        expect(division(10, 2)).toBe(5);
     });
 });
